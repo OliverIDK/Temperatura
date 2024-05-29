@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1050889433736",
+    "firebase_url": "https://proyecto-react-arduino-default-rtdb.firebaseio.com",
+    "project_id": "proyecto-react-arduino",
+    "storage_bucket": "proyecto-react-arduino.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050889433736:android:e6409434d930e2a00b653d",
+        "android_client_info": {
+          "package_name": "edu.oliver.proyectotemp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWcY0M1QGe0d9aN5MERs6Wtd2Jt7fOCsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

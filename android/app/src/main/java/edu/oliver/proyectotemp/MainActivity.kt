@@ -1,4 +1,4 @@
-package com.proyectotemp
+package edu.oliver.proyectotemp
 
 import android.os.Build
 import android.os.Bundle

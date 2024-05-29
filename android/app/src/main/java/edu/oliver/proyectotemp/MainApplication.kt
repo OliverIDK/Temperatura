@@ -1,4 +1,4 @@
-package com.proyectotemp
+package edu.oliver.proyectotemp
 
 import android.app.Application
 import android.content.res.Configuration
